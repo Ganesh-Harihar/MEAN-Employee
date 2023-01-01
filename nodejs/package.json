@@ -18,7 +18,7 @@
     "mongoose": "^5.6.3",
     "morgan": "^1.9.1",
     "multer": "^1.4.1",
-    "ngx-bootstrap-datetime-popup": "^4.3.0",
+    "ngx-bootstrap-datetime-popup": "^7.0.4",
     "nodemailer": "^6.3.0"
   },
   "devDependencies": {
